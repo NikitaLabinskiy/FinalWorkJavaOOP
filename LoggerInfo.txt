@@ -1,0 +1,11 @@
+мая 04, 2023 6:12:43 PM Controller.Controller <init>
+INFO: Запущено меню!
+мая 04, 2023 6:12:47 PM Controller.Controller <init>
+INFO: Пользователь выбрал 'Деление'!
+мая 04, 2023 6:12:59 PM Controller.Controller <init>
+INFO: Деление произведено успешно!
+Результат: null
+мая 04, 2023 6:12:59 PM Controller.Controller <init>
+INFO: Запущено меню!
+мая 04, 2023 6:13:55 PM Controller.Controller <init>
+INFO: Приложение было закрыто!
